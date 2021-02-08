@@ -1,0 +1,16 @@
+E:\2. Рабочие документы\0. Другое\3. С_sharpe\Calculator\CalculatorWPF\CalculatorWPF\bin\Debug\CalculatorWPF.exe.config
+E:\2. Рабочие документы\0. Другое\3. С_sharpe\Calculator\CalculatorWPF\CalculatorWPF\bin\Debug\CalculatorWPF.exe
+E:\2. Рабочие документы\0. Другое\3. С_sharpe\Calculator\CalculatorWPF\CalculatorWPF\bin\Debug\CalculatorWPF.pdb
+E:\2. Рабочие документы\0. Другое\3. С_sharpe\Calculator\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.csprojAssemblyReference.cache
+E:\2. Рабочие документы\0. Другое\3. С_sharpe\Calculator\CalculatorWPF\CalculatorWPF\obj\Debug\App.g.cs
+E:\2. Рабочие документы\0. Другое\3. С_sharpe\Calculator\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.cache
+E:\2. Рабочие документы\0. Другое\3. С_sharpe\Calculator\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF_MarkupCompile.lref
+E:\2. Рабочие документы\0. Другое\3. С_sharpe\Calculator\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.g.resources
+E:\2. Рабочие документы\0. Другое\3. С_sharpe\Calculator\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.Properties.Resources.resources
+E:\2. Рабочие документы\0. Другое\3. С_sharpe\Calculator\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.GenerateResource.cache
+E:\2. Рабочие документы\0. Другое\3. С_sharpe\Calculator\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.csproj.CoreCompileInputs.cache
+E:\2. Рабочие документы\0. Другое\3. С_sharpe\Calculator\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.exe
+E:\2. Рабочие документы\0. Другое\3. С_sharpe\Calculator\CalculatorWPF\CalculatorWPF\obj\Debug\CalculatorWPF.pdb
+E:\2. Рабочие документы\0. Другое\3. С_sharpe\Calculator\CalculatorWPF\CalculatorWPF\obj\Debug\View\CalculatorView.g.cs
+E:\2. Рабочие документы\0. Другое\3. С_sharpe\Calculator\CalculatorWPF\CalculatorWPF\obj\Debug\View\CalculatorView.baml
+E:\2. Рабочие документы\0. Другое\3. С_sharpe\Calculator\CalculatorWPF\CalculatorWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
